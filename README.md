@@ -1,4 +1,8 @@
 # Expense-manager
+
+ Spring-boot maven base Restful web services for personal expense manager(only back-end).
+
+
 Inserting data through Postman using JSON ( CREATE ):
 ![create](https://github.com/mudas2002/Expense-manager/assets/141341170/c6ee7e91-da62-4ad8-ab2f-6c064bd5127c)
 The table of data inserted through Postman using JSON:
