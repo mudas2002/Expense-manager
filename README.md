@@ -1,6 +1,6 @@
 # Expense-manager
 
- Spring-boot maven base Restful web services for personal expense manager(only back-end).
+ Spring-boot maven base Restful web services for personal expense manager.
 
 
 Inserting data through Postman using JSON ( CREATE ):
